@@ -1,0 +1,43 @@
+[
+  {
+    "title": "WhatsappChat Analyzer",
+    "imageSrc": "projects/wtsapp.png",
+    "description": "Our web app enables users to analyze their chat history, uncovering valuable insights through advanced analytics. Identify patterns and trends to enhance communication effectiveness and make informed decisions effortlessly.",
+    "skills": ["Python " ,"Matplotlib","seaborn","pandas","Numpy","NlTK","streamlit"],
+    
+    "source": "https://github.com/SandeeepKrish/whatsappchat_analyzer"
+  },
+  {
+    "title": "Carrer Connect",
+    "imageSrc": "projects/carrer.png",
+    "description": " Developed a job management dashboard using ReactJS, featuring intuitive job creation and updates. Implemented search functionality, optimized code performance, configured Redux Toolkit, and enhanced user experience with real-time feedback and alerts.",
+    "skills": ["React.js", "Express", "Node.js", "MongoDB","Tailwind CSS","Redux","GIT"],
+    
+    "source": "https://github.com/SandeeepKrish/carrerconnect"
+  },
+  {
+    "title": "Flight Scope University",
+    "imageSrc": "projects/projects.png",
+    "description": " Developed a dashboard application using React, featuring authentication, lead management, and detailed views. Created responsive UI components through React concepts and utilized API calls to extract data for the Flight Scope University application.",
+    "skills": ["React.js", "Express", "Node.js", "MongoDB","Tailwind CSS","Redux","GIT"],
+  
+    "source": "https://github.com/SandeeepKrish/carrerconnect"
+  },
+  {
+    "title": "News Duniya",
+    "imageSrc": "projects/newsduniya.png",
+    "description": "News Duniya is designed to provide users with the latest global news through a simple and user-friendly interface. It fetches live news updates using an external news API and displays a random news article on each visit.",
+    "skills": ["HTML " ,"CSS","Javascript","RestAPI"],
+    
+    "source": "https://github.com/SandeeepKrish/newsduniya"
+  },
+  {
+    "title": "Bg color changer",
+    "imageSrc": "projects/bgchnger.png",
+    "description": " In this project i make a background color changer In which there are few buttons have named like grey ,black Yellow ,greeen etc. if a user click on yellow button then the background changes to yellow colour or click on othe rbutton it will do changes ",
+    "skills": ["React.js","Tailwindcss","GIT"],
+    
+    "source": "https://github.com/SandeeepKrish/reactbg_colorchanger"
+  }
+  
+]
